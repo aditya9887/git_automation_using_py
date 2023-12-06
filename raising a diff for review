@@ -29,3 +29,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#Save this script as, for example, automate_diff.py. Before running it, ensure that you have Python installed on your system.
+
+#To run the script, open a terminal and navigate to the directory where your Git repository is located. Then, execute:
+python automate_diff.py
+
